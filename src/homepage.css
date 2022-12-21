@@ -1,0 +1,10 @@
+body {
+  background-color: #f9e7a6;
+}
+
+h1 {
+  display: block;
+  margin: auto 0;
+  text-align: center;
+  padding: 30px;
+}
